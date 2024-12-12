@@ -19,10 +19,10 @@ p {
   padding-bottom: 55px;
 }
 .link-image {
-  width: 70%;
+  width: 50%;
 }
 .link {
-  width: 40%;
+  width: 30%;
 }
 div {
   display: flex;
