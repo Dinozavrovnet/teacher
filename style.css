@@ -43,3 +43,20 @@ body {
    margin: 0;
 }
 .tiacher img {width: 100%}
+.schedule {
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+.call_schedule {
+   width: 100%;
+}
+.call_schedule img {
+   width: 100%;
+}
+.schedule_link {
+   width: 30%;
+}
+.schedule_link img {
+   max-width: 100%;
+}
