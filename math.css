@@ -1,0 +1,26 @@
+ section {         
+   height: 100vh;
+   background-image: url("https://learn.algoritmika.org/uploads/student/2520320/672778c9107df.webp");
+   background-size: cover;
+   background-color: rgba(0, 0, 0, 0.5);
+   box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.5);
+ }
+
+body {
+   padding: 0;
+   margin: 0;
+}
+.link-image {
+  width: 100%;
+   height: 300px
+}
+.link {
+  width: 48%;
+}
+div {
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  margin: 0 auto;
+  padding-top: 50px;
+}
