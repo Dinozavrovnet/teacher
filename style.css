@@ -23,7 +23,9 @@ opacity: 1;
  }
 .citata {text-align: center;
 box-shadow: ;
-font-size: 24px
+font-size: 24px;
+font-style: italic;
+font-weight: bold;
 } 
 .tiacher {
 width: 30%;
