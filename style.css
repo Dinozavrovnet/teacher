@@ -51,13 +51,13 @@ body {
    flex-wrap: wrap;
 }
 .call_schedule {
-   width: 100%;
+   width: 25%;
 }
 .call_schedule img {
    width: 100%;
 }
 .schedule_link {
-   width: 30%;
+   width: 25%;
 }
 .schedule_link img {
    max-width: 100%;
