@@ -31,3 +31,6 @@ div {
   margin: 0 auto;
   padding-top: 100px;
 }
+a:hover {
+  width: 500px;
+}
